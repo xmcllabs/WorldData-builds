@@ -1,0 +1,1 @@
+const o="Bosnia and Herzegovina",i="BA",s="BIH",n="Sarajevo",a="[[Bosnia and Herzegovina convertible mark|Convertible mark]]",t=3164253,e={country:o,iso2:"BA",iso3:"BIH",capital:n,currency:a,population:3164253};export{n as capital,o as country,a as currency,e as default,i as iso2,s as iso3,t as population};

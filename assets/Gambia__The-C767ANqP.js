@@ -1,0 +1,1 @@
+const o="Gambia, The",s="GM",t="GMB",a="Banjul",n="Gambian Dalasi D",c=2759988,i={country:o,iso2:"GM",iso3:"GMB",capital:a,currency:n,population:2759988};export{a as capital,o as country,n as currency,i as default,s as iso2,t as iso3,c as population};

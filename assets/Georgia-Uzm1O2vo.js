@@ -1,0 +1,1 @@
+const o="Georgia",t="GE",n="GEO",i="Tbilisi",s="Georgian Lari GEL ₾",c=3673850,a={country:o,iso2:"GE",iso3:"GEO",capital:i,currency:s,population:3673850};export{i as capital,o as country,s as currency,a as default,t as iso2,n as iso3,c as population};

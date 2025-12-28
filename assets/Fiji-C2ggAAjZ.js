@@ -1,0 +1,1 @@
+const o="Fiji",n="FJ",s="FJI",i="Suva",t="[[Fijian dollar]]",c=928784,a={country:o,iso2:"FJ",iso3:"FJI",capital:i,currency:t,population:928784};export{i as capital,o as country,t as currency,a as default,n as iso2,s as iso3,c as population};

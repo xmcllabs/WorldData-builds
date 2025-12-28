@@ -1,0 +1,1 @@
+const o="Bahrain",t="BH",i="BHR",a="Manama",n="[[Bahraini dinar]]",s=1588670,c={country:o,iso2:"BH",iso3:"BHR",capital:a,currency:n,population:1588670};export{a as capital,o as country,n as currency,c as default,t as iso2,i as iso3,s as population};

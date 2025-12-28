@@ -1,0 +1,1 @@
+const o="Mexico",s="MX",i="MEX",c="Mexico City",t="[[Mexican peso]]",n=130861007,e={country:o,iso2:"MX",iso3:"MEX",capital:c,currency:t,population:130861007};export{c as capital,o as country,t as currency,e as default,s as iso2,i as iso3,n as population};

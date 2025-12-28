@@ -1,0 +1,1 @@
+const o="St. Lucia",a="LC",c="LCA",t="Castries",s="East Caribbean dollar $ EC",n=179744,i={country:o,iso2:"LC",iso3:"LCA",capital:t,currency:s,population:179744};export{t as capital,o as country,s as currency,i as default,a as iso2,c as iso3,n as population};

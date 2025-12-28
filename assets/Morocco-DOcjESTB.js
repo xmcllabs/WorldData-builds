@@ -1,0 +1,1 @@
+const o="Morocco",n="MA",s="MAR",c="Rabat",t="[[Moroccan dirham]]",a=38081173,i={country:o,iso2:"MA",iso3:"MAR",capital:c,currency:t,population:38081173};export{c as capital,o as country,t as currency,i as default,n as iso2,s as iso3,a as population};

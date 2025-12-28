@@ -1,0 +1,1 @@
+const a="Malaysia",t="MY",n="MYS",o="Kuala Lumpur",s="[[Malaysian ringgit]] (RM)",i=35557673,c={country:a,iso2:"MY",iso3:"MYS",capital:o,currency:s,population:35557673};export{o as capital,a as country,s as currency,c as default,t as iso2,n as iso3,i as population};

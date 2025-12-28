@@ -1,0 +1,1 @@
+const o="Zimbabwe",n="ZW",s="ZWE",a="Harare",t="Zimbabwean dollar $ ZWL",c=16634373,i={country:o,iso2:"ZW",iso3:"ZWE",capital:a,currency:t,population:16634373};export{a as capital,o as country,t as currency,i as default,n as iso2,s as iso3,c as population};

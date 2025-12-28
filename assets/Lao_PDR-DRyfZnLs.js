@@ -1,0 +1,1 @@
+const o="Lao PDR",i="LA",s="LAO",t="Vientiane",n="Laotian Kip Kip ₭",a=7769819,c={country:o,iso2:"LA",iso3:"LAO",capital:t,currency:n,population:7769819};export{t as capital,o as country,n as currency,c as default,i as iso2,s as iso3,a as population};

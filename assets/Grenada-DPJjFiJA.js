@@ -1,0 +1,1 @@
+const o="Grenada",t="GD",s="GRD",a="Saint George's",n="[[East Caribbean dollar]]",c=117207,i={country:o,iso2:"GD",iso3:"GRD",capital:a,currency:n,population:117207};export{a as capital,o as country,n as currency,i as default,t as iso2,s as iso3,c as population};

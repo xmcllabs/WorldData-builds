@@ -1,0 +1,1 @@
+const o="Djibouti",n="DJ",c="DJI",t="Djibouti",i="[[Djiboutian franc]]",s=1168722,u={country:o,iso2:"DJ",iso3:"DJI",capital:t,currency:i,population:1168722};export{t as capital,o as country,i as currency,u as default,n as iso2,c as iso3,s as population};

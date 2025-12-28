@@ -1,0 +1,1 @@
+const o="Peru",n="PE",c="PER",s="Lima",t="[[Peruvian sol]]",i=34217848,a={country:o,iso2:"PE",iso3:"PER",capital:s,currency:t,population:34217848};export{s as capital,o as country,t as currency,a as default,n as iso2,c as iso3,i as population};

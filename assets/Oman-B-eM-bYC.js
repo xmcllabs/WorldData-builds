@@ -1,0 +1,1 @@
+const o="Oman",s="OM",c="OMN",n="Muscat",t="[[Omani rial]]",a=5049269,i={country:o,iso2:"OM",iso3:"OMN",capital:n,currency:t,population:5049269};export{n as capital,o as country,t as currency,i as default,s as iso2,c as iso3,a as population};

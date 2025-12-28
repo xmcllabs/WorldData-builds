@@ -1,0 +1,1 @@
+const o="Moldova",t="MD",c="MDA",n="Chisinau",s="[[Moldovan leu]]",a=2389275,i={country:o,iso2:"MD",iso3:"MDA",capital:n,currency:s,population:2389275};export{n as capital,o as country,s as currency,i as default,t as iso2,c as iso3,a as population};

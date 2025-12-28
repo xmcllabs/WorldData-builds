@@ -1,0 +1,1 @@
+const o="Jordan",a="JO",s="JOR",n="Amman",t="[[Jordanian dinar]]",c=11552876,i={country:o,iso2:"JO",iso3:"JOR",capital:n,currency:t,population:11552876};export{n as capital,o as country,t as currency,i as default,a as iso2,s as iso3,c as population};

@@ -1,0 +1,1 @@
+const o="El Salvador",n="SV",s="SLV",t="San Salvador",a="United States dollar $",c=6338193,l={country:o,iso2:"SV",iso3:"SLV",capital:t,currency:a,population:6338193};export{t as capital,o as country,a as currency,l as default,n as iso2,s as iso3,c as population};

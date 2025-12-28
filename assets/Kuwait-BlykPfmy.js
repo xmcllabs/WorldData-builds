@@ -1,0 +1,1 @@
+const t="Kuwait",n="KW",s="KWT",o="Kuwait City",i="[[Kuwaiti dinar]]",a=4973861,c={country:t,iso2:"KW",iso3:"KWT",capital:o,currency:i,population:4973861};export{o as capital,t as country,i as currency,c as default,n as iso2,s as iso3,a as population};

@@ -1,0 +1,1 @@
+const o="Bulgaria",n="BG",s="BGR",a="Sofia",t="[[Bulgarian lev|Lev]]",c=6444366,i={country:o,iso2:"BG",iso3:"BGR",capital:a,currency:t,population:6444366};export{a as capital,o as country,t as currency,i as default,n as iso2,s as iso3,c as population};

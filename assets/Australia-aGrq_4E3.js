@@ -1,0 +1,1 @@
+const o="Australia",s="AU",n="AUS",t="Canberra",a="[[Australian dollar]] ([[$]])",c=27204809,i={country:o,iso2:"AU",iso3:"AUS",capital:t,currency:a,population:27204809};export{t as capital,o as country,a as currency,i as default,s as iso2,n as iso3,c as population};

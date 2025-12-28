@@ -1,0 +1,1 @@
+const o="Greece",s="GR",n="GRC",t="Athens",c="Euro €",e=10388805,i={country:o,iso2:"GR",iso3:"GRC",capital:t,currency:c,population:10388805};export{t as capital,o as country,c as currency,i as default,s as iso2,n as iso3,e as population};

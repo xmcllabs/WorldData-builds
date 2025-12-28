@@ -1,0 +1,1 @@
+const o="Puerto Rico (US)",n="PR",s="PRI",t="San Juan",c="US dollar $",a=3203295,i={country:o,iso2:"PR",iso3:"PRI",capital:t,currency:c,population:3203295};export{t as capital,o as country,c as currency,i as default,n as iso2,s as iso3,a as population};

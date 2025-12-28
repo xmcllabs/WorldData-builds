@@ -1,0 +1,1 @@
+const o="Iran, Islamic Rep.",s="IR",c="IRN",n="Tehran",a="Iranian Rial IRR ﷼",t=91567738,i={country:o,iso2:"IR",iso3:"IRN",capital:n,currency:a,population:91567738};export{n as capital,o as country,a as currency,i as default,s as iso2,c as iso3,t as population};

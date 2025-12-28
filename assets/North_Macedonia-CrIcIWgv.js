@@ -1,0 +1,1 @@
+const o="North Macedonia",c="MK",a="MKD",n="Skopje",t="[[Macedonian denar]]",s=1792179,i={country:o,iso2:"MK",iso3:"MKD",capital:n,currency:t,population:1792179};export{n as capital,o as country,t as currency,i as default,c as iso2,a as iso3,s as population};

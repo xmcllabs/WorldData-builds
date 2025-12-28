@@ -1,0 +1,1 @@
+const o="Trinidad and Tobago",i="TT",t="TTO",n="Port-of-Spain",a="Trinidad and Tobago dollar $ TT",s=1368333,T={country:o,iso2:"TT",iso3:"TTO",capital:n,currency:a,population:1368333};export{n as capital,o as country,a as currency,T as default,i as iso2,t as iso3,s as population};

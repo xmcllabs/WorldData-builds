@@ -1,0 +1,1 @@
+const t="United Arab Emirates",s="AE",a="ARE",o="Abu Dhabi",i="United Arab Emirates dirham د.إ AED",n=10876981,c={country:t,iso2:"AE",iso3:"ARE",capital:o,currency:i,population:10876981};export{o as capital,t as country,i as currency,c as default,s as iso2,a as iso3,n as population};

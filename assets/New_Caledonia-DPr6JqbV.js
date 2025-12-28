@@ -1,0 +1,1 @@
+const o="New Caledonia",a="NC",c="NCL",n="Noum'ea",t="[[CFP franc]] (₣)",s=292639,i={country:o,iso2:"NC",iso3:"NCL",capital:n,currency:t,population:292639};export{n as capital,o as country,t as currency,i as default,a as iso2,c as iso3,s as population};

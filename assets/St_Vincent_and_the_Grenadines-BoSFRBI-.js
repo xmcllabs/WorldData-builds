@@ -1,0 +1,1 @@
+const n="St. Vincent and the Grenadines",s="VC",a="VCT",t="Kingstown",o="East Caribbean dollar $ EC",c=100616,i={country:n,iso2:"VC",iso3:"VCT",capital:t,currency:o,population:100616};export{t as capital,n as country,o as currency,i as default,s as iso2,a as iso3,c as population};

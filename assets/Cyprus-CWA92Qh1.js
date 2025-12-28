@@ -1,0 +1,1 @@
+const o="Cyprus",c="CY",n="CYP",s="Nicosia",t="Euro €",i=1358282,p={country:o,iso2:"CY",iso3:"CYP",capital:s,currency:t,population:1358282};export{s as capital,o as country,t as currency,p as default,c as iso2,n as iso3,i as population};

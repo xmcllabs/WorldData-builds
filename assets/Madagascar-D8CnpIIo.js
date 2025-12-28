@@ -1,0 +1,1 @@
+const a="Madagascar",n="MG",t="MDG",o="Antananarivo",s="Malagasy ariary Ariary",c=31964956,r={country:a,iso2:"MG",iso3:"MDG",capital:o,currency:s,population:31964956};export{o as capital,a as country,s as currency,r as default,n as iso2,t as iso3,c as population};

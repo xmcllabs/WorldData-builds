@@ -1,0 +1,1 @@
+const o="China",t="CN",s="CHN",n="Beijing",i="[[Renminbi]] (元/¥)",c=1408975e3,a={country:o,iso2:"CN",iso3:"CHN",capital:n,currency:i,population:1408975e3};export{n as capital,o as country,i as currency,a as default,t as iso2,s as iso3,c as population};

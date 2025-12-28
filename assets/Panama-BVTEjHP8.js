@@ -1,0 +1,1 @@
+const a="Panama",t="PA",s="PAN",o="Panama City",n="United States dollar $ Panamian balboa B",c=4515577,i={country:a,iso2:"PA",iso3:"PAN",capital:o,currency:n,population:4515577};export{o as capital,a as country,n as currency,i as default,t as iso2,s as iso3,c as population};

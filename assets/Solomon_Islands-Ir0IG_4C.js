@@ -1,0 +1,1 @@
+const o="Solomon Islands",t="SB",a="SLB",n="Honiara",s="[[Solomon Islands dollar]]",l=819198,c={country:o,iso2:"SB",iso3:"SLB",capital:n,currency:s,population:819198};export{n as capital,o as country,s as currency,c as default,t as iso2,a as iso3,l as population};

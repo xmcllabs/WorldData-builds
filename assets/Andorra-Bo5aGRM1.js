@@ -1,0 +1,1 @@
+const o="Andorra",s="AD",a="AND",n="Andorra la Vella",t="Euro €",c=81938,r={country:o,iso2:"AD",iso3:"AND",capital:n,currency:t,population:81938};export{n as capital,o as country,t as currency,r as default,s as iso2,a as iso3,c as population};

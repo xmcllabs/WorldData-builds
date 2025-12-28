@@ -1,0 +1,1 @@
+const o="Montenegro",c="ME",s="MNE",n="Podgorica",t="Euro €",i=623831,r={country:o,iso2:"ME",iso3:"MNE",capital:n,currency:t,population:623831};export{n as capital,o as country,t as currency,r as default,c as iso2,s as iso3,i as population};

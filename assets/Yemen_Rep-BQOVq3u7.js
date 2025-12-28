@@ -1,0 +1,1 @@
+const o="Yemen, Rep.",s="YE",c="YEM",n="Sana'a",t="Yemeni rial ﷼ YER",e=29825968,a={country:o,iso2:"YE",iso3:"YEM",capital:n,currency:t,population:29825968};export{n as capital,o as country,t as currency,a as default,s as iso2,c as iso3,e as population};

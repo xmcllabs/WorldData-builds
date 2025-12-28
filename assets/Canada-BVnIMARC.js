@@ -1,0 +1,1 @@
+const a="Canada",t="CA",s="CAN",o="Ottawa",n="[[Canadian dollar]] ($)",c=41288599,i={country:a,iso2:"CA",iso3:"CAN",capital:o,currency:n,population:41288599};export{o as capital,a as country,n as currency,i as default,t as iso2,s as iso3,c as population};

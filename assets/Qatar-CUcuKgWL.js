@@ -1,0 +1,1 @@
+const o="Qatar",s="QA",c="QAT",t="Doha",a="[[Qatari riyal]]",n=2857822,i={country:o,iso2:"QA",iso3:"QAT",capital:t,currency:a,population:2857822};export{t as capital,o as country,a as currency,i as default,s as iso2,c as iso3,n as population};

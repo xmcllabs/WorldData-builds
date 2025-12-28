@@ -1,0 +1,1 @@
+const o="Bermuda",s="BM",a="BMU",t="Hamilton",n="[[Bermudian dollar]] ($)",c=64636,i={country:o,iso2:"BM",iso3:"BMU",capital:t,currency:n,population:64636};export{t as capital,o as country,n as currency,i as default,s as iso2,a as iso3,c as population};

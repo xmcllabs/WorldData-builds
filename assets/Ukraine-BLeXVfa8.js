@@ -1,0 +1,1 @@
+const o="Ukraine",t="UA",s="UKR",n="Kiev",i="Ukrainian hryvnia ₴ UAH",a=37860221,c={country:o,iso2:"UA",iso3:"UKR",capital:n,currency:i,population:37860221};export{n as capital,o as country,i as currency,c as default,t as iso2,s as iso3,a as population};

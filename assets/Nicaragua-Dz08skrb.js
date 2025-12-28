@@ -1,0 +1,1 @@
+const a="Nicaragua",n="NI",t="NIC",o="Managua",c="[[Nicaraguan córdoba|Córdoba]]",s=6916140,i={country:a,iso2:"NI",iso3:"NIC",capital:o,currency:c,population:6916140};export{o as capital,a as country,c as currency,i as default,n as iso2,t as iso3,s as population};

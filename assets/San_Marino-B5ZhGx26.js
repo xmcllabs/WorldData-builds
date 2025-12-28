@@ -1,0 +1,1 @@
+const o="San Marino",a="SM",s="SMR",n="San Marino",t="Euro €",c=33977,i={country:o,iso2:"SM",iso3:"SMR",capital:n,currency:t,population:33977};export{n as capital,o as country,t as currency,i as default,a as iso2,s as iso3,c as population};

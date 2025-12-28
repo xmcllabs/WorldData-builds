@@ -1,0 +1,1 @@
+const o="Mauritania",i="MR",n="MRT",a="Nouakchott",t="Mauritanian ouguiya Ouguiya UM",u=5169395,c={country:o,iso2:"MR",iso3:"MRT",capital:a,currency:t,population:5169395};export{a as capital,o as country,t as currency,c as default,i as iso2,n as iso3,u as population};

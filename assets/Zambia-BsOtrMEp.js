@@ -1,0 +1,1 @@
+const o="Zambia",t="ZM",c="ZMB",a="Lusaka",s="[[Zambian kwacha]]",n=21314956,i={country:o,iso2:"ZM",iso3:"ZMB",capital:a,currency:s,population:21314956};export{a as capital,o as country,s as currency,i as default,t as iso2,c as iso3,n as population};

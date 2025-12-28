@@ -1,0 +1,1 @@
+const o="Romania",a="RO",s="ROU",n="Bucharest",t="[[Romanian leu]]",c=19069340,i={country:o,iso2:"RO",iso3:"ROU",capital:n,currency:t,population:19069340};export{n as capital,o as country,t as currency,i as default,a as iso2,s as iso3,c as population};

@@ -1,0 +1,1 @@
+const o="Poland",s="PL",c="POL",t="Warsaw",n="[[Polish złoty|Złoty]]",a=null,l={country:o,iso2:"PL",iso3:"POL",capital:t,currency:n,population:null};export{t as capital,o as country,n as currency,l as default,s as iso2,c as iso3,a as population};

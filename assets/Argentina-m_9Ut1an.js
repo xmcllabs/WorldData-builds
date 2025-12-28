@@ -1,0 +1,1 @@
+const o="Argentina",s="AR",c="ARG",n="Buenos Aires",t="Argentine peso $",i=45696159,e={country:o,iso2:"AR",iso3:"ARG",capital:n,currency:t,population:45696159};export{n as capital,o as country,t as currency,e as default,s as iso2,c as iso3,i as population};

@@ -1,0 +1,1 @@
+const o="Lebanon",s="LB",c="LBN",n="Beirut",t="[[Lebanese pound]]",a=5805962,e={country:o,iso2:"LB",iso3:"LBN",capital:n,currency:t,population:5805962};export{n as capital,o as country,t as currency,e as default,s as iso2,c as iso3,a as population};

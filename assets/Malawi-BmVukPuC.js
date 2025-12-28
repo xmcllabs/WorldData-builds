@@ -1,0 +1,1 @@
+const o="Malawi",t="MW",c="MWI",a="Lilongwe",n="[[Malawian kwacha]] (D)",s=null,i={country:o,iso2:"MW",iso3:"MWI",capital:a,currency:n,population:null};export{a as capital,o as country,n as currency,i as default,t as iso2,c as iso3,s as population};

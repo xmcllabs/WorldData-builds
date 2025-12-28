@@ -1,0 +1,1 @@
+const o="Sweden",s="SE",c="SWE",n="Stockholm",t="[[Swedish krona]]",e=10569709,i={country:o,iso2:"SE",iso3:"SWE",capital:n,currency:t,population:10569709};export{n as capital,o as country,t as currency,i as default,s as iso2,c as iso3,e as population};

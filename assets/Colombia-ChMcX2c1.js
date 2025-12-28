@@ -1,0 +1,1 @@
+const o="Colombia",n="CO",c="COL",t="Bogota",s="[[Colombian peso]]",a=52886363,i={country:o,iso2:"CO",iso3:"COL",capital:t,currency:s,population:52886363};export{t as capital,o as country,s as currency,i as default,n as iso2,c as iso3,a as population};

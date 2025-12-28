@@ -1,0 +1,1 @@
+const o="Libya",t="LY",s="LBY",i="Tripoli",n="[[Libyan dinar]]",c=7381023,a={country:o,iso2:"LY",iso3:"LBY",capital:i,currency:n,population:7381023};export{i as capital,o as country,n as currency,a as default,t as iso2,s as iso3,c as population};

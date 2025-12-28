@@ -1,0 +1,1 @@
+const o="Japan",t="JP",a="JPN",n="Tokyo",s="[[Japanese yen]] ([[¥]])",c=123975371,p={country:o,iso2:"JP",iso3:"JPN",capital:n,currency:s,population:123975371};export{n as capital,o as country,s as currency,p as default,t as iso2,a as iso3,c as population};

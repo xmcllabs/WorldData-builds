@@ -1,0 +1,1 @@
+const a="Bahamas, The",t="BS",n="BHS",o="Nassau",s="Bahamian dollar $",c=401283,i={country:a,iso2:"BS",iso3:"BHS",capital:o,currency:s,population:401283};export{o as capital,a as country,s as currency,i as default,t as iso2,n as iso3,c as population};

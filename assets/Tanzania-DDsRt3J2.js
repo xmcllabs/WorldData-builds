@@ -1,0 +1,1 @@
+const n="Tanzania",s="TZ",t="TZA",o="Dodoma",a="[[Tanzanian shilling]]",i=68560157,c={country:n,iso2:"TZ",iso3:"TZA",capital:o,currency:a,population:68560157};export{o as capital,n as country,a as currency,c as default,s as iso2,t as iso3,i as population};

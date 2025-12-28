@@ -1,0 +1,1 @@
+const o="Chile",s="CL",c="CHL",t="Santiago",n="[[Chilean peso]]",i=19764771,a={country:o,iso2:"CL",iso3:"CHL",capital:t,currency:n,population:19764771};export{t as capital,o as country,n as currency,a as default,s as iso2,c as iso3,i as population};

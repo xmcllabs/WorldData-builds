@@ -1,0 +1,1 @@
+const o="Jamaica",n="JM",t="JAM",a="Kingston",c="[[Jamaican dollar]]",s=2839175,i={country:o,iso2:"JM",iso3:"JAM",capital:a,currency:c,population:2839175};export{a as capital,o as country,c as currency,i as default,n as iso2,t as iso3,s as population};

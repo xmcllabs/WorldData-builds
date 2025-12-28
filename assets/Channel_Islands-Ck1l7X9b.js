@@ -1,0 +1,1 @@
+const n="Channel Islands",t="JG",a="CHI",o="St. Helier and St. Peter Port",s="Jersey pound and British Pound",c=168126,e={country:n,iso2:"JG",iso3:"CHI",capital:o,currency:s,population:168126};export{o as capital,n as country,s as currency,e as default,t as iso2,a as iso3,c as population};

@@ -1,0 +1,1 @@
+const o="Albania",t="AL",s="ALB",n="Tirane",a="[[Albanian lek|Lek]]",c=2714617,i={country:o,iso2:"AL",iso3:"ALB",capital:n,currency:a,population:2714617};export{n as capital,o as country,a as currency,i as default,t as iso2,s as iso3,c as population};

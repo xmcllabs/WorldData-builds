@@ -1,0 +1,1 @@
+const o="Somalia, Fed. Rep.",n="SO",t="SOM",i="Mogadishu",s="Somali shilling Shilling SLS",a=19009151,c={country:o,iso2:"SO",iso3:"SOM",capital:i,currency:s,population:19009151};export{i as capital,o as country,s as currency,c as default,n as iso2,t as iso3,a as population};

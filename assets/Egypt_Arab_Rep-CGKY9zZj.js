@@ -1,0 +1,1 @@
+const o="Egypt, Arab Rep.",p="EG",s="EGY",t="Cairo",n="Egyptian pound E£",c=116538258,a={country:o,iso2:"EG",iso3:"EGY",capital:t,currency:n,population:116538258};export{t as capital,o as country,n as currency,a as default,p as iso2,s as iso3,c as population};

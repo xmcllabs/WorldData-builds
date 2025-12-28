@@ -1,0 +1,1 @@
+const o="Marshall Islands",a="MH",n="MHL",s="Majuro",t="United States dollar $",l=37548,c={country:o,iso2:"MH",iso3:"MHL",capital:s,currency:t,population:37548};export{s as capital,o as country,t as currency,c as default,a as iso2,n as iso3,l as population};

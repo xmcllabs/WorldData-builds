@@ -1,0 +1,1 @@
+const s="Guinea-Bissau",t="GW",a="GNB",o="Bissau",n="[[West African CFA franc]]",c=2201352,i={country:s,iso2:"GW",iso3:"GNB",capital:o,currency:n,population:2201352};export{o as capital,s as country,n as currency,i as default,t as iso2,a as iso3,c as population};

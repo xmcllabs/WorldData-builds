@@ -1,0 +1,1 @@
+const o="Togo",n="TG",s="TGO",t="Lome",c="[[West African CFA franc]]",a=9515236,i={country:o,iso2:"TG",iso3:"TGO",capital:t,currency:c,population:9515236};export{t as capital,o as country,c as currency,i as default,n as iso2,s as iso3,a as population};

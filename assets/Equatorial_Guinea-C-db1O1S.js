@@ -1,0 +1,1 @@
+const o="Equatorial Guinea",t="GQ",c="GNQ",a="Malabo",n="[[Central African CFA franc]]",i=1892516,s={country:o,iso2:"GQ",iso3:"GNQ",capital:a,currency:n,population:1892516};export{a as capital,o as country,n as currency,s as default,t as iso2,c as iso3,i as population};

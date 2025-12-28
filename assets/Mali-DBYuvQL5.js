@@ -1,0 +1,1 @@
+const o="Mali",n="ML",s="MLI",t="Bamako",c="[[West African CFA franc]]",a=24478595,i={country:o,iso2:"ML",iso3:"MLI",capital:t,currency:c,population:24478595};export{t as capital,o as country,c as currency,i as default,n as iso2,s as iso3,a as population};

@@ -1,0 +1,1 @@
+const o="Monaco",t="MC",s="MCO",c="Monaco",n="Euro €",a=38631,i={country:o,iso2:"MC",iso3:"MCO",capital:c,currency:n,population:38631};export{c as capital,o as country,n as currency,i as default,t as iso2,s as iso3,a as population};

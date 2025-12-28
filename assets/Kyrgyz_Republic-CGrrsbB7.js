@@ -1,0 +1,1 @@
+const o="Kyrgyz Republic",c="KG",n="KGZ",s="Bishkek",t="Kyrgystani Som с",i=7224614,p={country:o,iso2:"KG",iso3:"KGZ",capital:s,currency:t,population:7224614};export{s as capital,o as country,t as currency,p as default,c as iso2,n as iso3,i as population};

@@ -1,0 +1,1 @@
+const o="Slovak Republic",s="SK",a="SVK",t="Bratislava",c="Euro €",n=5450421,i={country:o,iso2:"SK",iso3:"SVK",capital:t,currency:c,population:5450421};export{t as capital,o as country,c as currency,i as default,s as iso2,a as iso3,n as population};

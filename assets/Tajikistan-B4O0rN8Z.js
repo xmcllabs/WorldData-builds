@@ -1,0 +1,1 @@
+const o="Tajikistan",i="TJ",t="TJK",n="Dushanbe",s="[[Tajikistani somoni|Somoni]]",a=10590927,c={country:o,iso2:"TJ",iso3:"TJK",capital:n,currency:s,population:10590927};export{n as capital,o as country,s as currency,c as default,i as iso2,t as iso3,a as population};

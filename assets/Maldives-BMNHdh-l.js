@@ -1,0 +1,1 @@
+const o="Maldives",t="MV",i="MDV",s="Male",a="Maldivian rufiyaa MVR",n=527799,c={country:o,iso2:"MV",iso3:"MDV",capital:s,currency:a,population:527799};export{s as capital,o as country,a as currency,c as default,t as iso2,i as iso3,n as population};

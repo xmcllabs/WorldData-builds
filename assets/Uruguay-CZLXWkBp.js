@@ -1,0 +1,1 @@
+const o="Uruguay",s="UY",c="URY",t="Montevideo",n="[[Uruguayan peso]]",u=3477e3,a={country:o,iso2:"UY",iso3:"URY",capital:t,currency:n,population:3477e3};export{t as capital,o as country,n as currency,a as default,s as iso2,c as iso3,u as population};

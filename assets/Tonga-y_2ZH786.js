@@ -1,0 +1,1 @@
+const o="Tonga",t="TO",s="TON",a="Nuku'alofa",n="[[Tongan paʻanga|Paʻanga]]",c=104175,i={country:o,iso2:"TO",iso3:"TON",capital:a,currency:n,population:104175};export{a as capital,o as country,n as currency,i as default,t as iso2,s as iso3,c as population};

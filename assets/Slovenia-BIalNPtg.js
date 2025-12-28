@@ -1,0 +1,1 @@
+const o="Slovenia",s="SI",c="SVN",n="Ljubljana",t="Euro €",a=2126324,i={country:o,iso2:"SI",iso3:"SVN",capital:n,currency:t,population:2126324};export{n as capital,o as country,t as currency,i as default,s as iso2,c as iso3,a as population};

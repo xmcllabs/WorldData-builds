@@ -1,0 +1,1 @@
+const o="Pakistan",a="PK",n="PAK",s="Islamabad",t="[[Pakistani rupee]] (₨)",c=251269164,i={country:o,iso2:"PK",iso3:"PAK",capital:s,currency:t,population:251269164};export{s as capital,o as country,t as currency,i as default,a as iso2,n as iso3,c as population};

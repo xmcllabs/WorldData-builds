@@ -1,0 +1,1 @@
+const o="Nigeria",t="NG",a="NGA",i="Abuja",n="Nigerian naira ₦",s=232679478,c={country:o,iso2:"NG",iso3:"NGA",capital:i,currency:n,population:232679478};export{i as capital,o as country,n as currency,c as default,t as iso2,a as iso3,s as population};

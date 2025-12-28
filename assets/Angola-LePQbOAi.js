@@ -1,0 +1,1 @@
+const o="Angola",t="AO",s="AGO",n="Luanda",a="[[Angolan kwanza]]",c=37885849,i={country:o,iso2:"AO",iso3:"AGO",capital:n,currency:a,population:37885849};export{n as capital,o as country,a as currency,i as default,t as iso2,s as iso3,c as population};

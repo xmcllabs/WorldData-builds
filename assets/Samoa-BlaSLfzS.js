@@ -1,0 +1,1 @@
+const o="Samoa",n="WS",s="WSM",a="Apia",t="Samoan tālā Tālā WST US Dollar $ ",c=218019,i={country:o,iso2:"WS",iso3:"WSM",capital:a,currency:t,population:218019};export{a as capital,o as country,t as currency,i as default,n as iso2,s as iso3,c as population};

@@ -1,0 +1,1 @@
+const o="New Zealand",a="NZ",s="NZL",n="Wellington",t="[[New Zealand dollar]] ($)",c=5338500,l={country:o,iso2:"NZ",iso3:"NZL",capital:n,currency:t,population:5338500};export{n as capital,o as country,t as currency,l as default,a as iso2,s as iso3,c as population};

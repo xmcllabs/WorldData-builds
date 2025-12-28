@@ -1,0 +1,1 @@
+const o="United Kingdom",s="GB",i="GBR",n="London",t="Pound sterling £ GBP",c=69226e3,d={country:o,iso2:"GB",iso3:"GBR",capital:n,currency:t,population:69226e3};export{n as capital,o as country,t as currency,d as default,s as iso2,i as iso3,c as population};

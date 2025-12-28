@@ -1,0 +1,1 @@
+const o="Arab World",c="1A",t="ARB",n="",s=null,a=492579811,r={country:o,iso2:"1A",iso3:"ARB",capital:"",currency:null,population:492579811};export{n as capital,o as country,s as currency,r as default,c as iso2,t as iso3,a as population};

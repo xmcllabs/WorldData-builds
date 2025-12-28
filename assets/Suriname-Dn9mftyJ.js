@@ -1,0 +1,1 @@
+const o="Suriname",s="SR",t="SUR",n="Paramaribo",a="[[Surinamese dollar]]",c=591919,i={country:o,iso2:"SR",iso3:"SUR",capital:n,currency:a,population:591919};export{n as capital,o as country,a as currency,i as default,s as iso2,t as iso3,c as population};

@@ -1,0 +1,1 @@
+const o="Indonesia",t="ID",a="IDN",n="Jakarta",s="[[Indonesian rupiah]] (Rp)",c=283487931,i={country:o,iso2:"ID",iso3:"IDN",capital:n,currency:s,population:283487931};export{n as capital,o as country,s as currency,i as default,t as iso2,a as iso3,c as population};

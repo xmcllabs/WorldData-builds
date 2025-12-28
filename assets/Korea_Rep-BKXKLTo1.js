@@ -1,0 +1,1 @@
+const o="Korea, Rep.",n="KR",s="KOR",t="Seoul",c="Republic of Korea won ₩",e=51751065,a={country:o,iso2:"KR",iso3:"KOR",capital:t,currency:c,population:51751065};export{t as capital,o as country,c as currency,a as default,n as iso2,s as iso3,e as population};

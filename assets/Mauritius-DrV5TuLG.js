@@ -1,0 +1,1 @@
+const o="Mauritius",i="MU",n="MUS",t="Port Louis",s="[[Mauritian rupee]]",u=1259509,c={country:o,iso2:"MU",iso3:"MUS",capital:t,currency:s,population:1259509};export{t as capital,o as country,s as currency,c as default,i as iso2,n as iso3,u as population};

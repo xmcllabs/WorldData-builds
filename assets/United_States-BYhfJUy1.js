@@ -1,0 +1,1 @@
+const t="United States",s="US",a="USA",o="Washington D.C.",n="United States dollar $ USD",c=340110988,i={country:t,iso2:"US",iso3:"USA",capital:o,currency:n,population:340110988};export{o as capital,t as country,n as currency,i as default,s as iso2,a as iso3,c as population};

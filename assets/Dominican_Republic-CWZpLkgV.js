@@ -1,0 +1,1 @@
+const o="Dominican Republic",i="DO",t="DOM",n="Santo Domingo",c="Dominican peso",s=11427557,a={country:o,iso2:"DO",iso3:"DOM",capital:n,currency:c,population:11427557};export{n as capital,o as country,c as currency,a as default,i as iso2,t as iso3,s as population};

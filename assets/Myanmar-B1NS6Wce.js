@@ -1,0 +1,1 @@
+const o="Myanmar",n="MM",s="MMR",t="Naypyidaw",a="[[Kyat]] (K)",c=54500091,i={country:o,iso2:"MM",iso3:"MMR",capital:t,currency:a,population:54500091};export{t as capital,o as country,a as currency,i as default,n as iso2,s as iso3,c as population};

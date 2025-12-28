@@ -1,0 +1,1 @@
+const n="Turkmenistan",s="TM",a="TKM",t="Ashgabat",o="[[Turkmenistani manat|Manat]]",c=7494498,i={country:n,iso2:"TM",iso3:"TKM",capital:t,currency:o,population:7494498};export{t as capital,n as country,o as currency,i as default,s as iso2,a as iso3,c as population};

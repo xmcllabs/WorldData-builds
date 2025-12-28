@@ -1,0 +1,1 @@
+const o="Croatia",a="HR",c="HRV",t="Zagreb",s="Euro €",n=3866300,i={country:o,iso2:"HR",iso3:"HRV",capital:t,currency:s,population:3866300};export{t as capital,o as country,s as currency,i as default,a as iso2,c as iso3,n as population};

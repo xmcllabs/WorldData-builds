@@ -1,0 +1,1 @@
+const o="Brunei Darussalam",s="BN",t="BRN",a="Bandar Seri Begawan",n="Brunei Dollar $",r=462721,c={country:o,iso2:"BN",iso3:"BRN",capital:a,currency:n,population:462721};export{a as capital,o as country,n as currency,c as default,s as iso2,t as iso3,r as population};

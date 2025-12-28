@@ -1,0 +1,1 @@
+const o="Uganda",s="UG",t="UGA",n="Kampala",a="[[Ugandan shilling]]",c=50015092,i={country:o,iso2:"UG",iso3:"UGA",capital:n,currency:a,population:50015092};export{n as capital,o as country,a as currency,i as default,s as iso2,t as iso3,c as population};

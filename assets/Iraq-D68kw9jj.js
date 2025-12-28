@@ -1,0 +1,1 @@
+const o="Iraq",a="IQ",s="IRQ",n="Baghdad",t="[[Iraqi dinar]]",c=null,i={country:o,iso2:"IQ",iso3:"IRQ",capital:n,currency:t,population:null};export{n as capital,o as country,t as currency,i as default,a as iso2,s as iso3,c as population};

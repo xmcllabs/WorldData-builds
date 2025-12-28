@@ -1,0 +1,1 @@
+const o="British Virgin Islands",n="VG",i="VGB",s="Road Town",t="United States dollar (US$)",a=39471,c={country:o,iso2:"VG",iso3:"VGB",capital:s,currency:t,population:39471};export{s as capital,o as country,t as currency,c as default,n as iso2,i as iso3,a as population};

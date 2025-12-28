@@ -1,0 +1,1 @@
+const o="Finland",t="FI",c="FIN",n="Helsinki",s="Euro €",i=5637214,a={country:o,iso2:"FI",iso3:"FIN",capital:n,currency:s,population:5637214};export{n as capital,o as country,s as currency,a as default,t as iso2,c as iso3,i as population};

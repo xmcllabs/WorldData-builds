@@ -1,0 +1,1 @@
+const o="Ghana",c="GH",t="GHA",n="Accra",a="Ghanaian cedi Cedi",s=34427414,i={country:o,iso2:"GH",iso3:"GHA",capital:n,currency:a,population:34427414};export{n as capital,o as country,a as currency,i as default,c as iso2,t as iso3,s as population};

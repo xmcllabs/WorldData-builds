@@ -1,0 +1,1 @@
+const s="Turks and Caicos Islands",t="TC",a="TCA",o="Grand Turk",n="[[United States dollar]] (US$)",c=38717,i={country:s,iso2:"TC",iso3:"TCA",capital:o,currency:n,population:38717};export{o as capital,s as country,n as currency,i as default,t as iso2,a as iso3,c as population};

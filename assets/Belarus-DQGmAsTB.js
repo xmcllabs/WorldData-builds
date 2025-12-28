@@ -1,0 +1,1 @@
+const o="Belarus",t="BY",c="BLR",s="Minsk",n="[[Belarusian ruble]]",a=9133712,i={country:o,iso2:"BY",iso3:"BLR",capital:s,currency:n,population:9133712};export{s as capital,o as country,n as currency,i as default,t as iso2,c as iso3,a as population};

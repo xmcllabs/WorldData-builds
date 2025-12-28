@@ -1,0 +1,1 @@
+const o="Burkina Faso",a="BF",t="BFA",n="Ouagadougou",s="[[West African CFA franc]]",c=23548781,i={country:o,iso2:"BF",iso3:"BFA",capital:n,currency:s,population:23548781};export{n as capital,o as country,s as currency,i as default,a as iso2,t as iso3,c as population};

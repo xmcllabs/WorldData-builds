@@ -1,0 +1,1 @@
+const o="Chad",a="TD",c="TCD",n="N'Djamena",t="[[Central African CFA franc]]",s=20299123,i={country:o,iso2:"TD",iso3:"TCD",capital:n,currency:t,population:20299123};export{n as capital,o as country,t as currency,i as default,a as iso2,c as iso3,s as population};

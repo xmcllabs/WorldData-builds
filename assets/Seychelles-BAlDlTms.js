@@ -1,0 +1,1 @@
+const o="Seychelles",t="SC",e="SYC",c="Victoria",s="[[Seychellois rupee]]",n=127951,i={country:o,iso2:"SC",iso3:"SYC",capital:c,currency:s,population:127951};export{c as capital,o as country,s as currency,i as default,t as iso2,e as iso3,n as population};

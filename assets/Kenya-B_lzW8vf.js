@@ -1,0 +1,1 @@
+const o="Kenya",t="KE",c="KEN",n="Nairobi",s="[[Kenyan shilling]]",i=56432944,a={country:o,iso2:"KE",iso3:"KEN",capital:n,currency:s,population:56432944};export{n as capital,o as country,s as currency,a as default,t as iso2,c as iso3,i as population};

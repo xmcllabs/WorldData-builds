@@ -1,0 +1,1 @@
+const o="Liechtenstein",s="LI",c="LIE",t="Vaduz",n="[[Swiss franc]]",i=40197,e={country:o,iso2:"LI",iso3:"LIE",capital:t,currency:n,population:40197};export{t as capital,o as country,n as currency,e as default,s as iso2,c as iso3,i as population};

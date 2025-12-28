@@ -1,0 +1,1 @@
+const n="Afghanistan",t="AF",s="AFG",o="Kabul",a="[[Afghan afghani|Afghani]] ()",c=42647492,i={country:n,iso2:"AF",iso3:"AFG",capital:o,currency:a,population:42647492};export{o as capital,n as country,a as currency,i as default,t as iso2,s as iso3,c as population};

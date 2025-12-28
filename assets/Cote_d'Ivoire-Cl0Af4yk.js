@@ -1,0 +1,1 @@
+const o="Cote d'Ivoire",c="CI",n="CIV",t="Yamoussoukro",s="West African CFA Franc",i=31934230,a={country:o,iso2:"CI",iso3:"CIV",capital:t,currency:s,population:31934230};export{t as capital,o as country,s as currency,a as default,c as iso2,n as iso3,i as population};

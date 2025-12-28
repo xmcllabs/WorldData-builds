@@ -1,0 +1,1 @@
+const o="Viet Nam",s="VN",c="VNM",t="Hanoi",n="Vietnamese đồng ₫ VND",i=100987686,a={country:o,iso2:"VN",iso3:"VNM",capital:t,currency:n,population:100987686};export{t as capital,o as country,n as currency,a as default,s as iso2,c as iso3,i as population};

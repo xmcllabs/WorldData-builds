@@ -1,0 +1,1 @@
+const o="Israel",t="IL",c="ISR",e="",s="Israeli new shekel New shekel ₪",n=9974400,a={country:o,iso2:"IL",iso3:"ISR",capital:"",currency:s,population:9974400};export{e as capital,o as country,s as currency,a as default,t as iso2,c as iso3,n as population};

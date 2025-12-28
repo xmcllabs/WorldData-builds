@@ -1,0 +1,1 @@
+const n="Tunisia",i="TN",t="TUN",o="Tunis",s="[[Tunisian dinar]]",c=12277109,a={country:n,iso2:"TN",iso3:"TUN",capital:o,currency:s,population:12277109};export{o as capital,n as country,s as currency,a as default,i as iso2,t as iso3,c as population};

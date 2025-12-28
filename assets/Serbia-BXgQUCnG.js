@@ -1,0 +1,1 @@
+const o="Serbia",s="RS",a="SRB",n="Belgrade",t="[[Serbian dinar]]",c=6587202,i={country:o,iso2:"RS",iso3:"SRB",capital:n,currency:t,population:6587202};export{n as capital,o as country,t as currency,i as default,s as iso2,a as iso3,c as population};

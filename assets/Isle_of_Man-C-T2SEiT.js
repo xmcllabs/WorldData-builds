@@ -1,0 +1,1 @@
+const o="Isle of Man",t="IM",c="IMN",n="Douglas",s="Pound sterling Manx pound £",a=84160,i={country:o,iso2:"IM",iso3:"IMN",capital:n,currency:s,population:84160};export{n as capital,o as country,s as currency,i as default,t as iso2,c as iso3,a as population};

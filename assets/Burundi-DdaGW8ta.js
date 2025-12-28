@@ -1,0 +1,1 @@
+const o="Burundi",t="BI",c="BDI",n="Bujumbura",u="[[Burundian franc]] (FBu)",s=14047786,i={country:o,iso2:"BI",iso3:"BDI",capital:n,currency:u,population:14047786};export{n as capital,o as country,u as currency,i as default,t as iso2,c as iso3,s as population};

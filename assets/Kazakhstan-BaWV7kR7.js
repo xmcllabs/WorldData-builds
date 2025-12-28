@@ -1,0 +1,1 @@
+const t="Kazakhstan",o="KZ",s="KAZ",a="Astana",n="Kazakhstani tenge Tenge ₸",c=20592571,i={country:t,iso2:"KZ",iso3:"KAZ",capital:a,currency:n,population:20592571};export{a as capital,t as country,n as currency,i as default,o as iso2,s as iso3,c as population};

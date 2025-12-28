@@ -1,0 +1,1 @@
+const o="Ecuador",s="EC",n="ECU",t="Quito",c="United States dollar $",a=18135478,i={country:o,iso2:"EC",iso3:"ECU",capital:t,currency:c,population:18135478};export{t as capital,o as country,c as currency,i as default,s as iso2,n as iso3,a as population};

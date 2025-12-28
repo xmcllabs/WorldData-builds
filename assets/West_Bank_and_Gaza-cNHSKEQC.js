@@ -1,0 +1,1 @@
+const a="West Bank and Gaza",n="PS",s="PSE",t="",o="Israeli new shekel ₪ ILS",c=4976687,e={country:a,iso2:"PS",iso3:"PSE",capital:"",currency:o,population:4976687};export{t as capital,a as country,o as currency,e as default,n as iso2,s as iso3,c as population};

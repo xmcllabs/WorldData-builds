@@ -1,0 +1,1 @@
+const o="Brazil",s="BR",t="BRA",a="Brasilia",i="[[Brazilian real|Real]] (R$)",n=211998573,c={country:o,iso2:"BR",iso3:"BRA",capital:a,currency:i,population:211998573};export{a as capital,o as country,i as currency,c as default,s as iso2,t as iso3,n as population};

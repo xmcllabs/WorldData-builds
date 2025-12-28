@@ -1,0 +1,1 @@
+const o="India",s="IN",c="IND",n="New Delhi",t="[[Indian rupee]] ([[₹]])",i=1450935791,a={country:o,iso2:"IN",iso3:"IND",capital:n,currency:t,population:1450935791};export{n as capital,o as country,t as currency,a as default,s as iso2,c as iso3,i as population};

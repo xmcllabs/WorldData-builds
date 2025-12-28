@@ -1,0 +1,1 @@
+const o="Hungary",s="HU",a="HUN",n="Budapest",t="Hungarian forint Forint",c=9562314,i={country:o,iso2:"HU",iso3:"HUN",capital:n,currency:t,population:9562314};export{n as capital,o as country,t as currency,i as default,s as iso2,a as iso3,c as population};

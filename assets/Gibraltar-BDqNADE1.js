@@ -1,0 +1,1 @@
+const o="Gibraltar",a="GI",n="GIB",s="",t="Pound sterling Gibraltar pound £",c=39329,i={country:o,iso2:"GI",iso3:"GIB",capital:"",currency:t,population:39329};export{s as capital,o as country,t as currency,i as default,a as iso2,n as iso3,c as population};

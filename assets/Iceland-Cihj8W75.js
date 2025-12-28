@@ -1,0 +1,1 @@
+const o="Iceland",t="IS",s="ISL",c="Reykjavik",n="[[Icelandic króna]]",a=404610,i={country:o,iso2:"IS",iso3:"ISL",capital:c,currency:n,population:404610};export{c as capital,o as country,n as currency,i as default,t as iso2,s as iso3,a as population};

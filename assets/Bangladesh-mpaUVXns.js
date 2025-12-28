@@ -1,0 +1,1 @@
+const a="Bangladesh",n="BD",t="BGD",o="Dhaka",s="[[Bangladeshi taka|Taka]] ()",c=173562364,i={country:a,iso2:"BD",iso3:"BGD",capital:o,currency:s,population:173562364};export{o as capital,a as country,s as currency,i as default,n as iso2,t as iso3,c as population};

@@ -1,0 +1,1 @@
+const o="Sao Tome and Principe",a="ST",t="STP",n="Sao Tome",c="São Tomé and Príncipe dobra Db",i=235536,s={country:o,iso2:"ST",iso3:"STP",capital:n,currency:c,population:235536};export{n as capital,o as country,c as currency,s as default,a as iso2,t as iso3,i as population};

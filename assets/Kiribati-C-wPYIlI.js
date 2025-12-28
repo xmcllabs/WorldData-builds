@@ -1,0 +1,1 @@
+const o="Kiribati",a="KI",c="KIR",i="Tarawa",t="Australian dollar $ / Kiribati dollar is not the official currency.",n=134518,s={country:o,iso2:"KI",iso3:"KIR",capital:i,currency:t,population:134518};export{i as capital,o as country,t as currency,s as default,a as iso2,c as iso3,n as population};

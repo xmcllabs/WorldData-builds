@@ -1,0 +1,1 @@
+const o="Botswana",n="BW",s="BWA",t="Gaborone",a="[[Botswana pula|Pula]]",c=2521139,i={country:o,iso2:"BW",iso3:"BWA",capital:t,currency:a,population:2521139};export{t as capital,o as country,a as currency,i as default,n as iso2,s as iso3,c as population};

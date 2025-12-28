@@ -1,0 +1,1 @@
+const o="Belize",s="BZ",c="BLZ",t="Belmopan",n="[[Belize dollar]] ($)",e=417072,i={country:o,iso2:"BZ",iso3:"BLZ",capital:t,currency:n,population:417072};export{t as capital,o as country,n as currency,i as default,s as iso2,c as iso3,e as population};

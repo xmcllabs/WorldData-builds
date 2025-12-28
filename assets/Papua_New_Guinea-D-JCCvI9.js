@@ -1,0 +1,1 @@
+const o="Papua New Guinea",t="PG",s="PNG",a="Port Moresby",n="[[Papua New Guinean kina|Kina]]",i=10576502,c={country:o,iso2:"PG",iso3:"PNG",capital:a,currency:n,population:10576502};export{a as capital,o as country,n as currency,c as default,t as iso2,s as iso3,i as population};

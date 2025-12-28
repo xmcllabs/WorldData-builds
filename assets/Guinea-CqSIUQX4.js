@@ -1,0 +1,1 @@
+const o="Guinea",c="GN",s="GIN",n="Conakry",t="[[Guinean franc]]",a=14754785,i={country:o,iso2:"GN",iso3:"GIN",capital:n,currency:t,population:14754785};export{n as capital,o as country,t as currency,i as default,c as iso2,s as iso3,a as population};

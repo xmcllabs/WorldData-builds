@@ -1,0 +1,1 @@
+const o="Cayman Islands",a="KY",t="CYM",n="George Town",s="[[Cayman Islands dollar]]",c=74457,l={country:o,iso2:"KY",iso3:"CYM",capital:n,currency:s,population:74457};export{n as capital,o as country,s as currency,l as default,a as iso2,t as iso3,c as population};

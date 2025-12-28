@@ -1,0 +1,1 @@
+const o="Guyana",s="GY",a="GUY",n="Georgetown",t="[[Guyanese dollar]]",c=831087,u={country:o,iso2:"GY",iso3:"GUY",capital:n,currency:t,population:831087};export{n as capital,o as country,t as currency,u as default,s as iso2,a as iso3,c as population};

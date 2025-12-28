@@ -1,0 +1,1 @@
+const o="Northern Mariana Islands",t="MP",s="MNP",n="Saipan",a="United States dollar (US$)",c=44278,i={country:o,iso2:"MP",iso3:"MNP",capital:n,currency:a,population:44278};export{n as capital,o as country,a as currency,i as default,t as iso2,s as iso3,c as population};

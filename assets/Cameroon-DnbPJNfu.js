@@ -1,0 +1,1 @@
+const o="Cameroon",c="CM",a="CMR",n="Yaounde",t="[[Central African CFA franc]]",s=29123744,r={country:o,iso2:"CM",iso3:"CMR",capital:n,currency:t,population:29123744};export{n as capital,o as country,t as currency,r as default,c as iso2,a as iso3,s as population};

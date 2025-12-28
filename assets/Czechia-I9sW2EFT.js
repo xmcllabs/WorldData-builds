@@ -1,0 +1,1 @@
+const o="Czechia",n="CZ",s="CZE",c="Prague",t="Czech koruna Kč",a=10882164,i={country:o,iso2:"CZ",iso3:"CZE",capital:c,currency:t,population:10882164};export{c as capital,o as country,t as currency,i as default,n as iso2,s as iso3,a as population};

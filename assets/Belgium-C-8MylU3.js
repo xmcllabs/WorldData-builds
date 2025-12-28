@@ -1,0 +1,1 @@
+const o="Belgium",c="BE",n="BEL",s="Brussels",t="Euro €",i=11876844,u={country:o,iso2:"BE",iso3:"BEL",capital:s,currency:t,population:11876844};export{s as capital,o as country,t as currency,u as default,c as iso2,n as iso3,i as population};

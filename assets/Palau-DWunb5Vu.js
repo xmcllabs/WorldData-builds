@@ -1,0 +1,1 @@
+const o="Palau",a="PW",n="PLW",t="Koror",s="[[United States dollar]]",c=17695,i={country:o,iso2:"PW",iso3:"PLW",capital:t,currency:s,population:17695};export{t as capital,o as country,s as currency,i as default,a as iso2,n as iso3,c as population};

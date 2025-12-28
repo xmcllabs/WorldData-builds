@@ -1,0 +1,1 @@
+const o="Faroe Islands",a="FO",t="FRO",s="Torshavn",n="Danish Krone Faroese króna",c=54719,r={country:o,iso2:"FO",iso3:"FRO",capital:s,currency:n,population:54719};export{s as capital,o as country,n as currency,r as default,a as iso2,t as iso3,c as population};

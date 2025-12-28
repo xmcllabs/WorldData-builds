@@ -1,0 +1,1 @@
+const o="Nepal",n="NP",a="NPL",s="Kathmandu",t="[[Nepalese rupee]] (Rs)",c=29651054,e={country:o,iso2:"NP",iso3:"NPL",capital:s,currency:t,population:29651054};export{s as capital,o as country,t as currency,e as default,n as iso2,a as iso3,c as population};

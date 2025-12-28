@@ -1,0 +1,1 @@
+const o="Russian Federation",t="RU",c="RUS",s="Moscow",n="Russian Ruble ₽",i=143533851,a={country:o,iso2:"RU",iso3:"RUS",capital:s,currency:n,population:143533851};export{s as capital,o as country,n as currency,a as default,t as iso2,c as iso3,i as population};

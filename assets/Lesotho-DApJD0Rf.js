@@ -1,0 +1,1 @@
+const o="Lesotho",n="LS",c="LSO",t="Maseru",s="Lesotho loti LSL South African rand ZAR",a=2337423,i={country:o,iso2:"LS",iso3:"LSO",capital:t,currency:s,population:2337423};export{t as capital,o as country,s as currency,i as default,n as iso2,c as iso3,a as population};

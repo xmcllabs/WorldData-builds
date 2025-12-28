@@ -1,0 +1,1 @@
+const o="Thailand",a="TH",s="THA",n="Bangkok",t="[[Thai baht]] (฿)",c=71668011,i={country:o,iso2:"TH",iso3:"THA",capital:n,currency:t,population:71668011};export{n as capital,o as country,t as currency,i as default,a as iso2,s as iso3,c as population};

@@ -1,0 +1,1 @@
+const o="Liberia",n="LR",a="LBR",t="Monrovia",i="United States dollar $ Liberian dollar LRD",s=5612817,c={country:o,iso2:"LR",iso3:"LBR",capital:t,currency:i,population:5612817};export{t as capital,o as country,i as currency,c as default,n as iso2,a as iso3,s as population};

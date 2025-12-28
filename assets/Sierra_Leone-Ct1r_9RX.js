@@ -1,0 +1,1 @@
+const o="Sierra Leone",t="SL",s="SLE",e="Freetown",n="[[Sierra Leonean leone|Leone]]",c=8642022,r={country:o,iso2:"SL",iso3:"SLE",capital:e,currency:n,population:8642022};export{e as capital,o as country,n as currency,r as default,t as iso2,s as iso3,c as population};

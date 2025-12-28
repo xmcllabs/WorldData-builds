@@ -1,0 +1,1 @@
+const o="Nauru",n="NR",a="NRU",t="Yaren District",s="[[Australian dollar]]",c=11947,i={country:o,iso2:"NR",iso3:"NRU",capital:t,currency:s,population:11947};export{t as capital,o as country,s as currency,i as default,n as iso2,a as iso3,c as population};

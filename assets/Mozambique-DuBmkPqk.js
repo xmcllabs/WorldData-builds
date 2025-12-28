@@ -1,0 +1,1 @@
+const o="Mozambique",a="MZ",i="MOZ",t="Maputo",c="[[Mozambican metical|Metical]]",n=34631766,s={country:o,iso2:"MZ",iso3:"MOZ",capital:t,currency:c,population:34631766};export{t as capital,o as country,c as currency,s as default,a as iso2,i as iso3,n as population};

@@ -1,0 +1,1 @@
+const o="Armenia",a="AM",s="ARM",n="Yerevan",t="Armenian dram Dram",c=3033500,i={country:o,iso2:"AM",iso3:"ARM",capital:n,currency:t,population:3033500};export{n as capital,o as country,t as currency,i as default,a as iso2,s as iso3,c as population};

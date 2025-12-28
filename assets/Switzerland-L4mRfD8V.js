@@ -1,0 +1,1 @@
+const o="Switzerland",s="CH",c="CHE",n="Bern",t="[[Swiss franc]]",i=9034102,a={country:o,iso2:"CH",iso3:"CHE",capital:n,currency:t,population:9034102};export{n as capital,o as country,t as currency,a as default,s as iso2,c as iso3,i as population};

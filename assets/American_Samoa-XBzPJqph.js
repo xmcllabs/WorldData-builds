@@ -1,0 +1,1 @@
+const o="American Samoa",n="AS",c="ASM",a="Pago Pago",t="[[United States dollar]] (US$)",s=46765,i={country:o,iso2:"AS",iso3:"ASM",capital:a,currency:t,population:46765};export{a as capital,o as country,t as currency,i as default,n as iso2,c as iso3,s as population};

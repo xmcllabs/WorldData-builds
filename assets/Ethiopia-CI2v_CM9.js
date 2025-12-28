@@ -1,0 +1,1 @@
+const o="Ethiopia",s="ET",n="ETH",i="Addis Ababa",t="Ethiopian birr Birr",a=132059767,c={country:o,iso2:"ET",iso3:"ETH",capital:i,currency:t,population:132059767};export{i as capital,o as country,t as currency,c as default,s as iso2,n as iso3,a as population};

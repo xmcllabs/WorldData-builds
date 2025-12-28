@@ -1,0 +1,1 @@
+const o="Namibia",n="NA",t="NAM",a="Windhoek",i="Namibian dollar NAD or South African rand ZAR",c=3030131,s={country:o,iso2:"NA",iso3:"NAM",capital:a,currency:i,population:3030131};export{a as capital,o as country,i as currency,s as default,n as iso2,t as iso3,c as population};

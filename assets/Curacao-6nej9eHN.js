@@ -1,0 +1,1 @@
+const o="Curacao",c="CW",s="CUW",t="Willemstad",a="Caribbean Guilder Cg",n=155900,i={country:o,iso2:"CW",iso3:"CUW",capital:t,currency:a,population:155900};export{t as capital,o as country,a as currency,i as default,c as iso2,s as iso3,n as population};

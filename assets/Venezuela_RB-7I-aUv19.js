@@ -1,0 +1,1 @@
+const o="Venezuela, RB",a="VE",t="VEN",n="Caracas",s="Venezuelan bolívar Bs. VEF",c=28405543,e={country:o,iso2:"VE",iso3:"VEN",capital:n,currency:s,population:28405543};export{n as capital,o as country,s as currency,e as default,a as iso2,t as iso3,c as population};

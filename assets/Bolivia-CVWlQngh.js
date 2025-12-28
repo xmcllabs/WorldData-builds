@@ -1,0 +1,1 @@
+const o="Bolivia",a="BO",t="BOL",i="La Paz",n="[[Bolivian boliviano|Boliviano]]",s=12413315,c={country:o,iso2:"BO",iso3:"BOL",capital:i,currency:n,population:12413315};export{i as capital,o as country,n as currency,c as default,a as iso2,t as iso3,s as population};

@@ -1,0 +1,1 @@
+const o="Comoros",t="KM",c="COM",n="Moroni",s="[[Comorian franc]]",i=866628,r={country:o,iso2:"KM",iso3:"COM",capital:n,currency:s,population:866628};export{n as capital,o as country,s as currency,r as default,t as iso2,c as iso3,i as population};

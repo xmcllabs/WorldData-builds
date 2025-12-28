@@ -1,0 +1,1 @@
+const o="Aruba",s="AW",a="ABW",n="Oranjestad",t="[[Aruban florin]] (ƒ)",c=107624,r={country:o,iso2:"AW",iso3:"ABW",capital:n,currency:t,population:107624};export{n as capital,o as country,t as currency,r as default,s as iso2,a as iso3,c as population};

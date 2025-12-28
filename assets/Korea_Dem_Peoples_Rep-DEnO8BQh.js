@@ -1,0 +1,1 @@
+const o="Korea, Dem. People's Rep.",s="KP",t="PRK",e="Pyongyang",n="Korean People's won ₩",c=26498823,p={country:o,iso2:"KP",iso3:"PRK",capital:e,currency:n,population:26498823};export{e as capital,o as country,n as currency,p as default,s as iso2,t as iso3,c as population};

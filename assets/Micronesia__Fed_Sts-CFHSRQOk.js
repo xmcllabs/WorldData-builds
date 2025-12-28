@@ -1,0 +1,1 @@
+const o="Micronesia, Fed. Sts.",i="FM",n="FSM",t="Palikir",s="United States dollar $",c=113160,a={country:o,iso2:"FM",iso3:"FSM",capital:t,currency:s,population:113160};export{t as capital,o as country,s as currency,a as default,i as iso2,n as iso3,c as population};

@@ -1,0 +1,1 @@
+const o="Malta",s="MT",c="MLT",t="Valletta",a="Euro €",n=574346,l={country:o,iso2:"MT",iso3:"MLT",capital:t,currency:a,population:574346};export{t as capital,o as country,a as currency,l as default,s as iso2,c as iso3,n as population};

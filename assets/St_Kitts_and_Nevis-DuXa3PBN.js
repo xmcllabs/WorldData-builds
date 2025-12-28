@@ -1,0 +1,1 @@
+const t="St. Kitts and Nevis",n="KN",a="KNA",s="Basseterre",o="East Caribbean dollar $ EC",i=46843,c={country:t,iso2:"KN",iso3:"KNA",capital:s,currency:o,population:46843};export{s as capital,t as country,o as currency,c as default,n as iso2,a as iso3,i as population};

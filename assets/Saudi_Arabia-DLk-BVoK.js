@@ -1,0 +1,1 @@
+const o="Saudi Arabia",t="SA",s="SAU",a="Riyadh",i="Saudi riyal ر.س",c=35300280,n={country:o,iso2:"SA",iso3:"SAU",capital:a,currency:i,population:35300280};export{a as capital,o as country,i as currency,n as default,t as iso2,s as iso3,c as population};

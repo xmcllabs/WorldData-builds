@@ -1,0 +1,1 @@
+const o="Algeria",t="DZ",i="DZA",n="Algiers",s="[[Algerian dinar]]",c=46814308,a={country:o,iso2:"DZ",iso3:"DZA",capital:n,currency:s,population:46814308};export{n as capital,o as country,s as currency,a as default,t as iso2,i as iso3,c as population};

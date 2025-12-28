@@ -1,0 +1,1 @@
+const o="Turkiye",n="TR",c="TUR",s="Ankara",t="Turkish lira ₺ TRY",i=85518661,a={country:o,iso2:"TR",iso3:"TUR",capital:s,currency:t,population:85518661};export{s as capital,o as country,t as currency,a as default,n as iso2,c as iso3,i as population};

@@ -1,0 +1,1 @@
+const o="Singapore",s="SG",a="SGP",n="Singapore",t="[[Singapore dollar]] (S$)",c=6036860,i={country:o,iso2:"SG",iso3:"SGP",capital:n,currency:t,population:6036860};export{n as capital,o as country,t as currency,i as default,s as iso2,a as iso3,c as population};

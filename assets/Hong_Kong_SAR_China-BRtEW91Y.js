@@ -1,0 +1,1 @@
+const o="Hong Kong SAR, China",t="HK",c="HKG",s="",n="Hong Kong Dollar $",a=7524100,i={country:o,iso2:"HK",iso3:"HKG",capital:"",currency:n,population:7524100};export{s as capital,o as country,n as currency,i as default,t as iso2,c as iso3,a as population};

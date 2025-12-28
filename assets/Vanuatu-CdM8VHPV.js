@@ -1,0 +1,1 @@
+const t="Vanuatu",n="VU",u="VUT",o="Port-Vila",a="[[Vanuatu vatu|Vatu]]",s=327777,c={country:t,iso2:"VU",iso3:"VUT",capital:o,currency:a,population:327777};export{o as capital,t as country,a as currency,c as default,n as iso2,u as iso3,s as population};

@@ -1,0 +1,1 @@
+const a="Azerbaijan",t="AZ",s="AZE",o="Baku",n="[[Azerbaijani manat|Manat]] (₼)",c=10202850,i={country:a,iso2:"AZ",iso3:"AZE",capital:o,currency:n,population:10202850};export{o as capital,a as country,n as currency,i as default,t as iso2,s as iso3,c as population};

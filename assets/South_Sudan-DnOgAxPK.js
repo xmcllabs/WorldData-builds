@@ -1,0 +1,1 @@
+const o="South Sudan",s="SS",u="SSD",t="Juba",n="[[South Sudanese pound]]",c=11943408,a={country:o,iso2:"SS",iso3:"SSD",capital:t,currency:n,population:11943408};export{t as capital,o as country,n as currency,a as default,s as iso2,u as iso3,c as population};

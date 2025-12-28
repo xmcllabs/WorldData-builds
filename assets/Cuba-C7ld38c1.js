@@ -1,0 +1,1 @@
+const o="Cuba",t="CU",a="CUB",n="Havana",s="[[Cuban peso]]",c=10979783,u={country:o,iso2:"CU",iso3:"CUB",capital:n,currency:s,population:10979783};export{n as capital,o as country,s as currency,u as default,t as iso2,a as iso3,c as population};

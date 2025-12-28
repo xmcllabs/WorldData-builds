@@ -1,0 +1,1 @@
+const o="Barbados",t="BB",n="BRB",a="Bridgetown",s="[[Barbadian dollar]] ($)",c=282467,i={country:o,iso2:"BB",iso3:"BRB",capital:a,currency:s,population:282467};export{a as capital,o as country,s as currency,i as default,t as iso2,n as iso3,c as population};

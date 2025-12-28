@@ -1,0 +1,1 @@
+const o="Euro area",c="XC",t="EMU",n="",a=null,s=351125804,r={country:o,iso2:"XC",iso3:"EMU",capital:"",currency:null,population:351125804};export{n as capital,o as country,a as currency,r as default,c as iso2,t as iso3,s as population};

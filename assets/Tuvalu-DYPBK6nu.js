@@ -1,0 +1,1 @@
+const o="Tuvalu",u="TV",a="TUV",t="Funafuti",n="Tuvaluan dollar $ TVD",s=9646,c={country:o,iso2:"TV",iso3:"TUV",capital:t,currency:n,population:9646};export{t as capital,o as country,n as currency,c as default,u as iso2,a as iso3,s as population};

@@ -1,0 +1,1 @@
+const o="Lithuania",i="LT",s="LTU",t="Vilnius",n="Euro €",c=2888055,a={country:o,iso2:"LT",iso3:"LTU",capital:t,currency:n,population:2888055};export{t as capital,o as country,n as currency,a as default,i as iso2,s as iso3,c as population};

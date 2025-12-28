@@ -1,0 +1,1 @@
+const o="Philippines",n="PH",t="PHL",i="Manila",s="Philipinese peso ₱",p=115843670,c={country:o,iso2:"PH",iso3:"PHL",capital:i,currency:s,population:115843670};export{i as capital,o as country,s as currency,c as default,n as iso2,t as iso3,p as population};

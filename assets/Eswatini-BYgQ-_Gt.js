@@ -1,0 +1,1 @@
+const n="Eswatini",t="SZ",a="SWZ",o="Mbabane",i="Swazi lilangeni Lilangeni SZL South African rand ZAR",s=1242822,c={country:n,iso2:"SZ",iso3:"SWZ",capital:o,currency:i,population:1242822};export{o as capital,n as country,i as currency,c as default,t as iso2,a as iso3,s as population};

@@ -1,0 +1,1 @@
+const o="Sri Lanka",a="LK",s="LKA",n="Colombo",t="Sri Lankan rupee රු LKR",c=21916e3,i={country:o,iso2:"LK",iso3:"LKA",capital:n,currency:t,population:21916e3};export{n as capital,o as country,t as currency,i as default,a as iso2,s as iso3,c as population};

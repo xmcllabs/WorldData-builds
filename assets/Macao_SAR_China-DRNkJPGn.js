@@ -1,0 +1,1 @@
+const a="Macao SAR, China",c="MO",t="MAC",n="",o="Macanese Pataca PTC",s=687e3,i={country:a,iso2:"MO",iso3:"MAC",capital:"",currency:o,population:687e3};export{n as capital,a as country,o as currency,i as default,c as iso2,t as iso3,s as population};

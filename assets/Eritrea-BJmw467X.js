@@ -1,0 +1,1 @@
+const o="Eritrea",n="ER",s="ERI",t="Asmara",a="[[Eritrean nakfa|Nakfa]]",c=3535603,r={country:o,iso2:"ER",iso3:"ERI",capital:t,currency:a,population:3535603};export{t as capital,o as country,a as currency,r as default,n as iso2,s as iso3,c as population};

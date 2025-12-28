@@ -1,0 +1,1 @@
+const o="Congo, Dem. Rep.",t="CD",c="COD",n="Kinshasa",s="Congolese Franc CDF",a=109276265,e={country:o,iso2:"CD",iso3:"COD",capital:n,currency:s,population:109276265};export{n as capital,o as country,s as currency,e as default,t as iso2,c as iso3,a as population};

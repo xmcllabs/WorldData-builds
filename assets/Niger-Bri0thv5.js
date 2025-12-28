@@ -1,0 +1,1 @@
+const o="Niger",n="NE",s="NER",t="Niamey",c="[[West African CFA franc]]",i=27032412,a={country:o,iso2:"NE",iso3:"NER",capital:t,currency:c,population:27032412};export{t as capital,o as country,c as currency,a as default,n as iso2,s as iso3,i as population};

@@ -1,0 +1,1 @@
+const a="Guatemala",n="GT",l="GTM",t="Guatemala City",o="Guatemalan quetzal Quetzal",s=null,u={country:a,iso2:"GT",iso3:"GTM",capital:t,currency:o,population:null};export{t as capital,a as country,o as currency,u as default,n as iso2,l as iso3,s as population};

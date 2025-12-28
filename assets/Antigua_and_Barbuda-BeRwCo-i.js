@@ -1,0 +1,1 @@
+const a="Antigua and Barbuda",t="AG",s="ATG",n="Saint John's",o="[[Eastern Caribbean dollar]]",c=93772,i={country:a,iso2:"AG",iso3:"ATG",capital:n,currency:o,population:93772};export{n as capital,a as country,o as currency,i as default,t as iso2,s as iso3,c as population};

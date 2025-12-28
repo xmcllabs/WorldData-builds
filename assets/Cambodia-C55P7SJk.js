@@ -1,0 +1,1 @@
+const o="Cambodia",a="KH",s="KHM",n="Phnom Penh",t="Cambodian riel",c=17638801,i={country:o,iso2:"KH",iso3:"KHM",capital:n,currency:t,population:17638801};export{n as capital,o as country,t as currency,i as default,a as iso2,s as iso3,c as population};

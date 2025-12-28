@@ -1,0 +1,1 @@
+const o="Uzbekistan",n="UZ",c="UZB",s="Tashkent",t="[[Uzbekistani soum|Uzbek sum]]",i=36361859,a={country:o,iso2:"UZ",iso3:"UZB",capital:s,currency:t,population:36361859};export{s as capital,o as country,t as currency,a as default,n as iso2,c as iso3,i as population};

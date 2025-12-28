@@ -1,0 +1,1 @@
+const t="St. Martin (French part)",c="MF",r="MAF",o="Marigot",n="Euro €",s=26129,a={country:t,iso2:"MF",iso3:"MAF",capital:o,currency:n,population:26129};export{o as capital,t as country,n as currency,a as default,c as iso2,r as iso3,s as population};

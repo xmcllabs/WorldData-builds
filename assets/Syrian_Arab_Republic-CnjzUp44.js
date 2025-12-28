@@ -1,0 +1,1 @@
+const o="Syrian Arab Republic",s="SY",a="SYR",n="Damascus",c="Syrian pound ل.س SYP",t=17500657,i={country:o,iso2:"SY",iso3:"SYR",capital:n,currency:c,population:17500657};export{n as capital,o as country,c as currency,i as default,s as iso2,a as iso3,t as population};

@@ -1,0 +1,1 @@
+const o="Virgin Islands (U.S.)",n="VI",i="VIR",t="Charlotte Amalie",s="United States dollar $ USD",a=106405,c={country:o,iso2:"VI",iso3:"VIR",capital:t,currency:s,population:106405};export{t as capital,o as country,s as currency,c as default,n as iso2,i as iso3,a as population};

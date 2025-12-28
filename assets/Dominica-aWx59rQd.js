@@ -1,0 +1,1 @@
+const o="Dominica",t="DM",a="DMA",n="Roseau",s="[[East Caribbean dollar]]",c=66205,i={country:o,iso2:"DM",iso3:"DMA",capital:n,currency:s,population:66205};export{n as capital,o as country,s as currency,i as default,t as iso2,a as iso3,c as population};

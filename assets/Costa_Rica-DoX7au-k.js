@@ -1,0 +1,1 @@
+const o="Costa Rica",c="CR",n="CRI",s="San Jose",t="[[Costa Rican colón]]",a=5129910,i={country:o,iso2:"CR",iso3:"CRI",capital:s,currency:t,population:5129910};export{s as capital,o as country,t as currency,i as default,c as iso2,n as iso3,a as population};

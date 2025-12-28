@@ -1,0 +1,1 @@
+const o="Greenland",t="GL",c="GRL",n="Nuuk",s="[[Danish krone]]",a=56836,e={country:o,iso2:"GL",iso3:"GRL",capital:n,currency:s,population:56836};export{n as capital,o as country,s as currency,e as default,t as iso2,c as iso3,a as population};

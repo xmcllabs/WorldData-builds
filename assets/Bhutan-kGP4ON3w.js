@@ -1,0 +1,1 @@
+const t="Bhutan",u="BT",s="BTN",n="Thimphu",o="Bhutanese ngultrum Ngultrum Indian rupee (₹)",c=791524,a={country:t,iso2:"BT",iso3:"BTN",capital:n,currency:o,population:791524};export{n as capital,t as country,o as currency,a as default,u as iso2,s as iso3,c as population};

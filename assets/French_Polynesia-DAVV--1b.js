@@ -1,0 +1,1 @@
+const o="French Polynesia",s="PF",t="PYF",n="Papeete",c="[[CFP franc]] (₣)",a=281807,e={country:o,iso2:"PF",iso3:"PYF",capital:n,currency:c,population:281807};export{n as capital,o as country,c as currency,e as default,s as iso2,t as iso3,a as population};

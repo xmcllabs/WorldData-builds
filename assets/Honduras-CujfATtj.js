@@ -1,0 +1,1 @@
+const o="Honduras",a="HN",t="HND",n="Tegucigalpa",s="Honduran lempira Lempira",c=10825703,i={country:o,iso2:"HN",iso3:"HND",capital:n,currency:s,population:10825703};export{n as capital,o as country,s as currency,i as default,a as iso2,t as iso3,c as population};

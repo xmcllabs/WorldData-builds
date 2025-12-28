@@ -1,0 +1,1 @@
+const a="Paraguay",s="PY",t="PRY",o="Asuncion",n="[[Paraguayan guaraní|Guaraní]]",c=6929153,u={country:a,iso2:"PY",iso3:"PRY",capital:o,currency:n,population:6929153};export{o as capital,a as country,n as currency,u as default,s as iso2,t as iso3,c as population};

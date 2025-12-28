@@ -1,0 +1,1 @@
+const o="Cabo Verde",a="CV",c="CPV",s="Praia",t="Cape Verdean Escudo",n=524877,e={country:o,iso2:"CV",iso3:"CPV",capital:s,currency:t,population:524877};export{s as capital,o as country,t as currency,e as default,a as iso2,c as iso3,n as population};

@@ -1,0 +1,1 @@
+const o="Rwanda",t="RW",c="RWA",n="Kigali",a="[[Rwandan franc]]",s=14256567,i={country:o,iso2:"RW",iso3:"RWA",capital:n,currency:a,population:14256567};export{n as capital,o as country,a as currency,i as default,t as iso2,c as iso3,s as population};

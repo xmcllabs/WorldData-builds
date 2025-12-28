@@ -1,0 +1,1 @@
+const o="European Union",t="EU",c="EUU",s="",n="Euro €",a=450185396,i={country:o,iso2:"EU",iso3:"EUU",capital:"",currency:n,population:450185396};export{s as capital,o as country,n as currency,i as default,t as iso2,c as iso3,a as population};

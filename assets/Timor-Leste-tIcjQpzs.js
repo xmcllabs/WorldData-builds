@@ -1,0 +1,1 @@
+const o="Timor-Leste",i="TL",n="TLS",t="Dili",s="United States dollar $ USD",c=1400638,e={country:o,iso2:"TL",iso3:"TLS",capital:t,currency:s,population:1400638};export{t as capital,o as country,s as currency,e as default,i as iso2,n as iso3,c as population};

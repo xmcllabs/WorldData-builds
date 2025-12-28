@@ -1,0 +1,1 @@
+const t="Sint Maarten (Dutch part)",a="SX",c="SXM",o="Philipsburg",n="Caribbean Guilder Cg",i=43350,s={country:t,iso2:"SX",iso3:"SXM",capital:o,currency:n,population:43350};export{o as capital,t as country,n as currency,s as default,a as iso2,c as iso3,i as population};

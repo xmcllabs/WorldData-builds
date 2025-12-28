@@ -1,0 +1,1 @@
+const o="Gabon",c="GA",s="GAB",n="Libreville",t="[[Central African CFA franc]]",a=2538952,i={country:o,iso2:"GA",iso3:"GAB",capital:n,currency:t,population:2538952};export{n as capital,o as country,t as currency,i as default,c as iso2,s as iso3,a as population};
