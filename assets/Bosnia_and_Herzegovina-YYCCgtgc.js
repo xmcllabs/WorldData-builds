@@ -1,0 +1,1 @@
+const a=JSON.parse('{"country":"Bosnia and Herzegovina","iso2":"BA","iso3":"BIH","capital":"Sarajevo","currency":"[[Bosnia and Herzegovina convertible mark|Convertible mark]]","population":3164253}');export{a as default};

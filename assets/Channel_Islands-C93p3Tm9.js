@@ -1,0 +1,1 @@
+const n=JSON.parse('{"country":"Channel Islands","iso2":"JG","iso3":"CHI","capital":"St. Helier and St. Peter Port","currency":"Jersey pound and British Pound","population":168126}');export{n as default};

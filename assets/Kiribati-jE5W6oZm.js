@@ -1,0 +1,1 @@
+const a=JSON.parse('{"country":"Kiribati","iso2":"KI","iso3":"KIR","capital":"Tarawa","currency":"Australian dollar $ / Kiribati dollar is not the official currency.","population":134518}');export{a as default};

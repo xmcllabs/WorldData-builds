@@ -1,0 +1,215 @@
+{
+  "IS.ROD.PAVE.ZS": {
+    "indicator_name": "Roads, paved (% of total roads)",
+    "data": [
+      {
+        "indicator": {
+          "id": "IS.ROD.PAVE.ZS",
+          "value": "Roads, paved (% of total roads)"
+        },
+        "country": {
+          "id": "XZN",
+          "value": "Sub-Saharan Africa excluding South Africa and Nigeria"
+        },
+        "countryiso3code": "",
+        "date": "2012",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "IS.ROD.PAVE.ZS",
+          "value": "Roads, paved (% of total roads)"
+        },
+        "country": {
+          "id": "XZN",
+          "value": "Sub-Saharan Africa excluding South Africa and Nigeria"
+        },
+        "countryiso3code": "",
+        "date": "2011",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "IS.ROD.PAVE.ZS",
+          "value": "Roads, paved (% of total roads)"
+        },
+        "country": {
+          "id": "XZN",
+          "value": "Sub-Saharan Africa excluding South Africa and Nigeria"
+        },
+        "countryiso3code": "",
+        "date": "2010",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "IS.ROD.PAVE.ZS",
+          "value": "Roads, paved (% of total roads)"
+        },
+        "country": {
+          "id": "XZN",
+          "value": "Sub-Saharan Africa excluding South Africa and Nigeria"
+        },
+        "countryiso3code": "",
+        "date": "2009",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "IS.ROD.PAVE.ZS",
+          "value": "Roads, paved (% of total roads)"
+        },
+        "country": {
+          "id": "XZN",
+          "value": "Sub-Saharan Africa excluding South Africa and Nigeria"
+        },
+        "countryiso3code": "",
+        "date": "2008",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "IS.ROD.PAVE.ZS",
+          "value": "Roads, paved (% of total roads)"
+        },
+        "country": {
+          "id": "XZN",
+          "value": "Sub-Saharan Africa excluding South Africa and Nigeria"
+        },
+        "countryiso3code": "",
+        "date": "2007",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "IS.ROD.PAVE.ZS",
+          "value": "Roads, paved (% of total roads)"
+        },
+        "country": {
+          "id": "XZN",
+          "value": "Sub-Saharan Africa excluding South Africa and Nigeria"
+        },
+        "countryiso3code": "",
+        "date": "2006",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "IS.ROD.PAVE.ZS",
+          "value": "Roads, paved (% of total roads)"
+        },
+        "country": {
+          "id": "XZN",
+          "value": "Sub-Saharan Africa excluding South Africa and Nigeria"
+        },
+        "countryiso3code": "",
+        "date": "2005",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "IS.ROD.PAVE.ZS",
+          "value": "Roads, paved (% of total roads)"
+        },
+        "country": {
+          "id": "XZN",
+          "value": "Sub-Saharan Africa excluding South Africa and Nigeria"
+        },
+        "countryiso3code": "",
+        "date": "2004",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "IS.ROD.PAVE.ZS",
+          "value": "Roads, paved (% of total roads)"
+        },
+        "country": {
+          "id": "XZN",
+          "value": "Sub-Saharan Africa excluding South Africa and Nigeria"
+        },
+        "countryiso3code": "",
+        "date": "2003",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "IS.ROD.PAVE.ZS",
+          "value": "Roads, paved (% of total roads)"
+        },
+        "country": {
+          "id": "XZN",
+          "value": "Sub-Saharan Africa excluding South Africa and Nigeria"
+        },
+        "countryiso3code": "",
+        "date": "2002",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "IS.ROD.PAVE.ZS",
+          "value": "Roads, paved (% of total roads)"
+        },
+        "country": {
+          "id": "XZN",
+          "value": "Sub-Saharan Africa excluding South Africa and Nigeria"
+        },
+        "countryiso3code": "",
+        "date": "2001",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      },
+      {
+        "indicator": {
+          "id": "IS.ROD.PAVE.ZS",
+          "value": "Roads, paved (% of total roads)"
+        },
+        "country": {
+          "id": "XZN",
+          "value": "Sub-Saharan Africa excluding South Africa and Nigeria"
+        },
+        "countryiso3code": "",
+        "date": "2000",
+        "value": 12,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 1
+      }
+    ]
+  }
+}
